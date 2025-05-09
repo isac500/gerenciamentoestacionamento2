@@ -1,5 +1,5 @@
-from gerenciamentoestacionamento2.ai_dentu.interface import *
-from gerenciamentoestacionamento2.ai_dentu.lib import *
+from interface import *
+from lib import *
 from datetime import date, datetime
 
 arq_saida = 'relatorio_saida.txt'
