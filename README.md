@@ -46,4 +46,4 @@ Confira a apresentação completa do sistema no YouTube:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Isac500/gerenciamentoestacionamento2.0.git
+   git clone https://github.com/Isac500/gerenciamentoestacionamento2.git
