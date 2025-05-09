@@ -1,4 +1,4 @@
-# gerenciamentoestacionamento2.0
+# gerenciamentoestacionamento2
 # 🅿️ Sistema de Gerenciamento de Estacionamento 2.0
 
 Este é um sistema de gerenciamento de estacionamento desenvolvido em **Python**, com foco na organização, facilidade de uso e praticidade para pequenos negócios e estacionamentos. A versão 2.0 traz melhorias significativas em relação à versão anterior, com validações de entrada, visualização mais clara dos dados, controle financeiro automatizado e recursos personalizáveis.
